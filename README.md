@@ -1,5 +1,5 @@
 # tracker
-Disclaimer its a phishing tool don't use unauthorised 
+Disclaimer its a trapping tool don't use unauthorised 
 
 # এটি কি ধরনের টুল? 
 এটি একটি ব্যাক ক্যামেরা হাইজ্যাক মাইক্রোফোন হাইজ্যাক এবং লোকেশন হাইজ্যাকিং টুল।
